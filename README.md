@@ -25,7 +25,7 @@ If you're as excited about FiveM as I am, feel free to browse through my work an
 Want to chat about FiveM development or just say hi? Reach out below:
 
 - **Email:** sphinxcfxdev@gmail.com
-- **Discord:** SphinxCFX#1234
+- **Discord:** aussiehayze
 - **Location:** Australia
 
 ---
